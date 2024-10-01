@@ -1,2 +1,2 @@
 # Overview
-This is a small experiment where I tested different sizes of Large Language Models (LLMs) to extract required tech stacks from IT project descriptions. The experiment runs on Colab's free GPU, aiming to explore how LLMs can extract structured data from unstructured text, with potential applications in building a matching system.
+This experiment primarily tests the performance of various sizes of Large Language Models (LLMs) on Colab’s free GPU. The goal is to evaluate how well LLMs perform under these constraints, while also exploring their potential for extracting structured data from unstructured IT project descriptions, with future applications in building a matching system.
